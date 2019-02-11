@@ -1,0 +1,108 @@
+====================
+name            : science student
+type            : PERSON
+metadata        : {}
+salience        : 0.5940471
+wikipedia_url   : -
+====================
+name            : Cyprus International University
+type            : ORGANIZATION
+metadata        : {'mid': '/m/03nx8rf', 'wikipedia_url': 'https://en.wikipedia.org/wiki/Cyprus_International_University'}
+salience        : 0.10060766
+wikipedia_url   : https://en.wikipedia.org/wiki/Cyprus_International_University
+====================
+name            : university
+type            : ORGANIZATION
+metadata        : {}
+salience        : 0.07846264
+wikipedia_url   : -
+====================
+name            : secondary school
+type            : ORGANIZATION
+metadata        : {}
+salience        : 0.056312095
+wikipedia_url   : -
+====================
+name            : West African
+type            : LOCATION
+metadata        : {'wikipedia_url': 'https://en.wikipedia.org/wiki/West_Africa', 'mid': '/m/0hqjh'}
+salience        : 0.030161038
+wikipedia_url   : https://en.wikipedia.org/wiki/West_Africa
+====================
+name            : Nigeria
+type            : LOCATION
+metadata        : {'mid': '/m/05cgv', 'wikipedia_url': 'https://en.wikipedia.org/wiki/Nigeria'}
+salience        : 0.030161038
+wikipedia_url   : https://en.wikipedia.org/wiki/Nigeria
+====================
+name            : senior School certificate examination
+type            : EVENT
+metadata        : {}
+salience        : 0.019541504
+wikipedia_url   : -
+====================
+name            : ignition
+type            : OTHER
+metadata        : {}
+salience        : 0.01711436
+wikipedia_url   : -
+====================
+name            : computer courses
+type            : OTHER
+metadata        : {}
+salience        : 0.013435495
+wikipedia_url   : -
+====================
+name            : physics math chemistry biology
+type            : OTHER
+metadata        : {}
+salience        : 0.013273543
+wikipedia_url   : -
+====================
+name            : languages
+type            : OTHER
+metadata        : {}
+salience        : 0.009329519
+wikipedia_url   : -
+====================
+name            : Joe Griffin
+type            : PERSON
+metadata        : {}
+salience        : 0.00789049
+wikipedia_url   : -
+====================
+name            : Pro 8000
+type            : CONSUMER_GOOD
+metadata        : {}
+salience        : 0.0073331264
+wikipedia_url   : -
+====================
+name            : Java JavaScript
+type            : OTHER
+metadata        : {'mid': '/m/02p97', 'wikipedia_url': 'https://en.wikipedia.org/wiki/JavaScript'}
+salience        : 0.006297515
+wikipedia_url   : https://en.wikipedia.org/wiki/JavaScript
+====================
+name            : Visual Studio
+type            : CONSUMER_GOOD
+metadata        : {'wikipedia_url': 'https://en.wikipedia.org/wiki/Microsoft_Visual_Studio', 'mid': '/m/01r_y0'}
+salience        : 0.006297515
+wikipedia_url   : https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
+====================
+name            : Park Row
+type            : LOCATION
+metadata        : {}
+salience        : 0.003880222
+wikipedia_url   : -
+====================
+name            : programming
+type            : OTHER
+metadata        : {}
+salience        : 0.0034212433
+wikipedia_url   : -
+====================
+name            : Matlab
+type            : OTHER
+metadata        : {'mid': '/m/053_x', 'wikipedia_url': 'https://en.wikipedia.org/wiki/MATLAB'}
+salience        : 0.002433885
+wikipedia_url   : https://en.wikipedia.org/wiki/MATLAB
